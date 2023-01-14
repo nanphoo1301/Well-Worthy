@@ -1,0 +1,260 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+#1{
+	color: grey;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-family: Century Gothic;
+	text-decoration: none;
+	text-shadow: 0 0 .8em white inset;
+}
+
+h2{
+	text-align: center;
+	color: #077036;
+	font-family: Century Gothic;
+	text-decoration: none;
+}
+
+#h1{
+   	text-align: center;
+	color: #de6d0b;
+	font-family: New Century Schoolbook;
+	text-decoration: none;
+}
+
+
+h4{
+	text-align: center;
+	color: #79b38a;
+	font-family: Kristen itc;
+	text-decoration: none;
+}
+
+h3{
+	text-align: center;
+	color: #304d38;
+	font-family: Century Gothic;
+	text-decoration: none;
+}
+
+#h3{
+	text-align: center;
+	color: ghostwhite;
+	font-family: Century Gothic;
+	text-decoration: none;
+}
+
+#h4{
+    text-align: center;
+	color: #f6dcfc;
+	font-family: Century Gothic;
+	text-decoration: none;
+}
+
+#h44{
+    text-align: center;
+	color: #c6f5db;
+	font-family: Century Gothic;
+	text-decoration: none;
+	text-shadow: 0 0 .8em black;
+}
+
+.top{
+	background-image: url(PBL/greey.gif);
+	box-shadow: 0 0 8px 8px white inset;
+    color: whitem;
+    font-family: Kristen itc;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 5px;
+    text-shadow: 0 0 .8em white;
+}
+
+
+.dog{
+	background-color: #b1b3b1;
+	margin-top: 10px;
+	border-radius: 20px;
+	box-shadow: 0 0 0px 3px #515753;
+}
+
+/*This is the dog pic*/
+#dog2{
+	width: 100%;
+	border-radius: 20px;
+	float: left;
+}
+
+.dog3{
+    float: left;
+    font-family: Century Gothic;
+	float: left;
+	color: #43574c;
+	font-weight: bolder;
+	text-shadow: 0 0 .8em white;
+}
+
+.dog4{
+	float: right;
+}
+
+.dog:hover{
+	background-color: #b1b3b1;
+	margin-top: 10px;
+	box-shadow: 0 0 4px 4px #86a393 inset;
+}
+
+.next{
+	background-color: #86a393;
+	float: right;
+	border-radius: 20px;
+}
+
+.cat{
+	background-color: #b1b3b1;
+	margin-top: 10px;
+	border-radius: 20px;
+	box-shadow: 0 0 0px 3px #515753;
+}
+
+#cat2{
+	width: 100%;
+	border-radius: 20px;
+	float: left;
+}
+
+.cat3{
+    float: left;
+	font-family: Century Gothic;
+	float: left;
+	color: #43574c;
+	font-weight: bolder;
+	text-shadow: 0 0 .8em white;
+}
+
+.cat4{
+	float: right;
+}
+
+.cat:hover{
+	background-color: #b1b3b1;
+	margin-top: 10px;
+	box-shadow: 0 0 4px 4px #86a393 inset;
+}
+
+.nextt{
+	background-color: #86a393;
+	float: right;
+	border-radius: 20px;
+}
+
+.footerforadopt{
+  background-color: #8b948f;
+  color: white;
+  padding-top: 5px;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.jan{
+    float: left;
+    background-color: #5b856e;
+    margin-top: 10px;
+    border-radius: 30px;
+    padding-bottom: 10px;
+}
+
+#fb1{
+  width: 30px;
+  display: block;
+}
+
+#ig1{
+  width: 35px;
+  padding-top: 10px;
+  display: block;
+}
+
+#tt1{
+  width: 40px;
+  padding-top: 5px;
+  display: block;
+}
+
+#space{
+  background-color: #5b856e;
+  width: 0.5%;
+  height: 200px;
+  float: left;
+  border-radius: 30px;
+  margin-top: 10px;
+}
+
+.feb{
+     text-align: center;
+     margin-top: 30px;
+     float: left;
+     background-color: #5b856e;
+     border-radius: 30px;
+     padding-bottom: 10px;
+}
+
+.mar{
+     text-align: center;
+     margin-top: 10px;
+     float: left;
+     background-color: #5b856e;
+     border-radius: 30px;
+     padding-bottom: 10px;
+}
+
+.apr{
+     text-align: center;
+     margin-top: 30px;
+     float: left;
+     background-color: #5b856e;
+     border-radius: 30px;
+     padding-bottom: 10px;
+}
+
+#spacee{
+  background-color: #5b856e;
+  width: 0.5%;
+  height: 270px;
+  float: left;
+  border-radius: 30px;
+  margin-top: 35px;
+  display: inline;
+}
+
+#comment{
+  float: left;
+  margin-top: 100px;
+  margin-left: 190px;
+  width: 300px;
+  text-align: center;
+}
+
+
+#small{ 
+  width: 80px;
+    height: 30px; 
+    background-color: ghostwhite;
+    border: 2px solid #5b856e;  
+    border-radius:7px; 
+    font-family: Century Gothic ;
+    color: #5b856e;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
