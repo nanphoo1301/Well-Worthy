@@ -289,6 +289,7 @@
   .clear{
     margin-right: 150px;
     margin-top: 30px;
+    display:none;
   }
 
   /*For dog.html*/
@@ -1394,12 +1395,12 @@
 
     .footerfordog{
       height: 200px;
-      margin-top: 1000px;
+      margin-top: 3000px;
     }
 
     .footerforcat{
       height: 200px;
-      margin-top: 1500px;
+      margin-top: 1000px;
     }
 
     .footerforaccount{
